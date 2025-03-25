@@ -21,7 +21,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("First Person Shooter Game")
 
 Player class
-class Player:1
+class Player:fergie
     def __init__(self):
         self.rect = pygame.Rect(WIDTH // 2, HEIGHT // 2, 50, 50)
 
